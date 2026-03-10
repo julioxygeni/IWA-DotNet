@@ -377,3 +377,6 @@ FodyWeavers.xsd
 /IWA-DotNet.KAL.zip
 /InsecureWebApp/package.zip
 /InsecureWebApp/Files/Order.file
+
+# macOS
+.DS_Store
